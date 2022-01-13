@@ -8,5 +8,8 @@ Due to its ability to accurately predict emotional state using multimodal featur
 python3 fuse_result_3.py
 ~~~
 
+## Arxiv link
+https://arxiv.org/abs/2002.11312 (also available in this repo)
+
 ## Citation
 B. T. Atmaja and M. Akagi, “Multitask Learning and Multistage Fusion for Dimensional Audiovisual Emotion Recognition,” in ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, May 2020, vol. 2020-May, pp. 4482–4486, doi: 10.1109/ICASSP40776.2020.9052916.
